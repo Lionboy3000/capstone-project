@@ -5,3 +5,11 @@ body {
 .navbar {
     background-color:darkslategrey;
 }
+
+footer {
+
+    background-color:lightslategrey;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
